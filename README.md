@@ -6,7 +6,7 @@
 <hr>
 <p>I will walk you through the app. What it does and how it does it.</p>
 
-<h2>The U/I:</h2>
+<h2>The U/I:(in templates folder)</h2>
 <ul>
 <li>Sign in and Log in Page</li>
 
