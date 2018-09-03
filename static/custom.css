@@ -8,6 +8,13 @@ h1{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 5vmax;
 }
+
+h2{
+    text-decoration-color: lightcoral;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px; 
+}
 footer{
     margin-left: 45%;
 }
@@ -26,6 +33,14 @@ footer{
     margin-left:  auto;   
     margin-right: auto;
     display: block;
+}
+
+.container2{
+    padding-left: 35px;
+    padding-right: 15px;
+    margin-left:  auto;   
+    margin-right: auto;
+    display: flex;
 }
 
 .form{
@@ -115,4 +130,37 @@ footer{
     display: inline-block;
     border: solid transparent 5px;
     border-top-color: black;
+}
+
+/* the homepage  */
+.food-menu{
+    margin: 0, 0, 0, 10px;
+    width: 1000px;
+    height: 1000px;
+}
+
+.square{
+    margin: 10px;
+    float: left;
+    width: 20%;
+    height: 20%;
+    background: wheat;
+    color: red;
+    line-height: 0.5;
+    text-align: center;
+}
+
+.bill-container{
+    text-align: center;
+    display: block;
+}
+
+.bill{
+    margin: 10px;
+    background: lightslategrey;
+    color: green;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    line-height: 1.5;
 }
