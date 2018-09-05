@@ -196,3 +196,28 @@ footer{
     transform: translate(-50%, -50%);
 
 }
+
+/* end of home page css */
+
+/* clinet history css */
+.box{
+    background: wheat;
+    width: 1000px;
+    height: 1000px;
+    position: relative;
+}
+#history h2{
+    text-decoration-line: underline;
+}
+#history dl{
+    padding-left: 20px;
+    line-height: 1.5; 
+}
+
+#current h2{
+    text-decoration-line: underline;
+}
+
+#current dl{
+    padding: 20px;
+}
